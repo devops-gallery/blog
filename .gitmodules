@@ -1,0 +1,9 @@
+[submodule "themes/hugo-theme-cleanwhite-rsy"]
+	path = themes/hugo-theme-cleanwhite-rsy
+	url = git@github.com:youngkin/hugo-theme-cleanwhite-rsy.git
+[submodule "quickstart/themes/ananke"]
+	path = quickstart/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
